@@ -1,0 +1,12 @@
+{
+  "name": "herorace-web",
+  "version": "1.0.0",
+  "description": "Web interface of herorace trainig registration service",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules index.mjs"
+  },
+  "author": "Vladimir <loysagienn@gmail.com> (vajs.pro)",
+  "license": "ISC"
+}
